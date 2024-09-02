@@ -1,2 +1,2 @@
 # Calendar
-This is a dynamic Calendar project, a small self-made project built using HTML, CSS, and JavaScript. It displays the current time, month, days, and date in a user-friendly interface.
+This is a self-made calendar project that I developed using HTML, CSS, and JavaScript. The calendar interface is designed with HTML and styled with CSS to create an intuitive and visually appealing layout. The functionality is implemented with JavaScript, enabling dynamic features such as displaying the current date, month, days, and time. The JavaScript logic also allows for user interaction, such as navigating between months and viewing the calendar dynamically.
